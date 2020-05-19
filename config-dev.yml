@@ -1,5 +1,2 @@
-server:
-  port: 8002
-spring:
-  application:
-    name: dev_paymentService_01
+log:
+  info: dadaming
